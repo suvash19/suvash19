@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shresthasuvash.com.np](https://shresthasuvash.com.np)
 
-- 📝 I regularly write articles on [https://shresthasuvash.com.np](https://blog.shresthasuvash.com.np)
+- 📝 I regularly write articles on [https://shresthasuvash.com.np/blog](https://shresthasuvash.com.np/blog)
 
 - 📫 How to reach me **subashshrestha677@gmail.com**
 
